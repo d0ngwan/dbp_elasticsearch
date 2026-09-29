@@ -1,0 +1,6 @@
+elasticsearch:
+  host: https://es01
+  port: 9200
+  username: elastic
+  password: skkudbp
+  ca_cert: /home/jovyan/certs/ca/ca.crt
